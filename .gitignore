@@ -12,6 +12,9 @@ yarn.lock
 **/*.cpuprofile
 **/*.heapsnapshot
 
+#NPM Package lock
+package-lock.json
+
 # Build Files
 build/
 components/
